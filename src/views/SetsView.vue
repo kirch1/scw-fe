@@ -1,9 +1,0 @@
-<template>
-  <div>
-    <h1>Sets</h1>
-  </div>
-</template>
-
-<style>
-
-</style>
